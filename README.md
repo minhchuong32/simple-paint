@@ -17,7 +17,6 @@
   <img src="./screenshots/ui.png" alt="Giao diện Simple Paint" width="600">
 </p>
 
-> 📌 Ảnh chỉ mang tính minh hoạ – bạn có thể thay bằng ảnh thực tế của bạn.
 
 ## 💻 Công nghệ sử dụng
 
