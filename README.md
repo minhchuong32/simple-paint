@@ -1,6 +1,6 @@
 # 🎨 Simple Paint – Ứng dụng Vẽ Mini bằng C# Windows Forms
 
-Ứng dụng Simple Paint là một phần mềm vẽ đơn giản tương tự như Microsoft Paint, được xây dựng bằng ngôn ngữ lập trình C# và Windows Forms. Phù hợp cho người mới học lập trình giao diện, đồ họa hoặc đang làm đồ án môn học.
+Ứng dụng Simple Paint là một phần mềm vẽ đơn giản tương tự như Microsoft Paint, được xây dựng bằng ngôn ngữ lập trình C# và Windows Forms.
 
 ## 🧩 Tính năng chính
 
